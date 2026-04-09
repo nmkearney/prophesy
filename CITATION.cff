@@ -1,9 +1,31 @@
-﻿cff-version: 1.2.0
+cff-version: 1.2.0
 type: software
 title: "Prophesy"
 message: "If you use this software, please cite it."
 authors:
   - family-names: Kearney
     given-names: Norman
-version: 1.0.2
-date-released: 2026-03-23
+version: 1.0.3
+date-released: 2026-04-09
+repository-code: "https://github.com/nmkearney/prophesy"
+url: "https://github.com/nmkearney/prophesy"
+license: GPL-3.0
+abstract: >
+  Prophesy is a software tool for Cross-Impact Balance (CIB) analysis,
+  enabling scenario generation, succession analysis, perturbation testing,
+  and pathway exploration across multiple model variants.
+keywords:
+  - cross-impact balance
+  - scenario analysis
+  - complex systems
+  - simulation
+  - decision support
+preferred-citation:
+  type: software
+  authors:
+    - family-names: Kearney
+      given-names: Norman
+  title: "Prophesy"
+  version: 1.0.3
+  date-released: 2026-04-09
+  doi: 10.5281/zenodo.18986525
